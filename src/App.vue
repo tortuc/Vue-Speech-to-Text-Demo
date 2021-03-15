@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <hello-world />
+<!--  <vue-speech />-->
   </div>
 </template>
 
