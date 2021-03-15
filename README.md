@@ -1,7 +1,7 @@
 # Vue Speech to Text
 Preview:
 
-![demo](./video/video.mp4)
+![demo](./video/video.gif)
 
 ## Project setup
 ```
