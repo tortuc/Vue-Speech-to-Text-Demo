@@ -1,4 +1,7 @@
-# demo
+# Vue Speech to Text
+Preview:
+
+![demo](./video/video.mp4)
 
 ## Project setup
 ```
@@ -20,5 +23,9 @@ yarn build
 yarn lint
 ```
 
+### Change the Language.
+```
+The change of language is possible by change the lang_ of HelloWorld component data.
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
