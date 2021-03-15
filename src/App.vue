@@ -11,27 +11,7 @@ export default {
   components:{
     HelloWorld
   },
-  data(){
-    return {
-      status: false
-    }
-  },
-  methods: {
-      onEnd({lastSentence, transcription}) {
-          console.log(lastSentence + "____" + transcription)
-      },
-    setPlay(){
-      this.status = !this.status
-      console.log(this.status)
-    }
-  },
-  computed:{
-    isPlay(){
-      return this.status
-    }
-  }
-
-}
+ }
 </script>
 
 <style>
